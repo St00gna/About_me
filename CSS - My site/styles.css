@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    font-family: cursive;
+    text-align: center;
+    color: #C70A80;
+}
+
+.name {
+    font-family: 'Pacifico', cursive;
+    font-size: 2em;
+}
+
+h1 {
+    width: 20%;
+    margin: 0 auto 0 auto;
+    color: #66BFBF;
+}
+
+h2 {
+    color: #66BFBF;
+}
+
+header {
+    background:#EAF6F6;
+}
+
+.bottom_cloud {
+    position: absolute;
+    right: 80%;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 10%;
+}
+
+.PRO {
+    text-decoration: underline;
+}
+
+#selfie {
+border-radius: 300px;
+width: 300px;
+ height: 300px;
+}
+
+.Horizontal_dots {
+ height: 2px;
+ border: none;
+ border-top: 5px dotted #EAF6F6;
+ width: 40px;
+}
+
+#computer {
+    border-radius: 300px;
+width: 100px;
+ height: 100px;
+}
+
+h3 {   
+    color: #11999E; 
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.first_skill {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: left;
+    width: 500px;
+}
+
+.second_skill {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: right;
+    width: 500px;
+}
+
+.first_skill_text  {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+}
+
+.second_skill_text  {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+header {
+    position: relative;
+}
+
+main {
+    position: relative;
+}
+ 
+footer{
+    position: relative;
+}
+
+.images_skills {
+    border-radius: 300px;
+}
+
+.SendMail {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);;
+   position: relative;
+   left: 47%;
+   margin-bottom: 20px;
+}
+
+.SendMail_text {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: #66BFBF;
+    height: 20%;
+}
+
+.Social_media {
+    color: #11999E;
+
+}
+
+ul.horizontal_list {
+margin: 0;
+padding: 4px; 
+}
+
+ul.horizontal_list li {
+    display: inline;
+    margin-right: 5px; 
+    padding: 3px;
+    text-decoration: none;
+   }
+
+   footer p {
+    color:#EAF6F6;
+    margin: auto;
+   }
